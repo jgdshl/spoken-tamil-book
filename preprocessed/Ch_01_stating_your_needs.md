@@ -86,21 +86,26 @@ You might have noticed that it is listed as _-ngaɭ_ and not not _-nga_ above. A
 
 The same works for other Tamil verbs as well. Just using the dictionary form will be a command by itself! No extra work needed.
 
-> _pô _
- Go!
+> _pô_
 >
-> _pônga _
- Please go!
+> Go!
 >
-> _eʐudù _
- Write !
+> _pônga_
 >
-> _eʐudùnga _
- Please eʐudùnga
+> Please go!
+>
+> _eʐudù_
+>
+> Write !
+>
+> _eʐudùnga_
+>
+> Please write !
 
 Of course, you can ask someone to do something for you.
 
 > _enakkù paɳɳùnga_.
+>
 > Please do (this) for me.
 
 ## Can you do this?
