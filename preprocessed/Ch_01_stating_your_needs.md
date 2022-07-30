@@ -29,7 +29,7 @@ To make a closed question, where the answer can be yes or no, just add _aa_ to t
 >
 > Kabilan: Yes. For me, icecream is wanted.
 
-If you need to say you _!too!_ need something, just add _um_ after _!for me!_ or _!for you!_. If the word ends with a _ù_, like _enakkù_ or _unakkù_ it loses the final _ù_.
+If you need to say you _too_ need something, just add _um_ after _for me_ or _for you_. If the word ends with a _ù_, like _enakkù_ or _unakkù_ it loses the final _ù_.
 
 > _Paari: unakkù vêɳum-aa_ ?
 >
@@ -45,7 +45,7 @@ If you need to say you _!too!_ need something, just add _um_ after _!for me!_ or
 
 From above example you could see that in spoken Tamil, a lot of details can be dropped if the context is available.  
 
-The "also" particle can also be put with the subject, and just not with the verb. But it means a different thing. The emphasis is put on _!you!_ rather than the _!it!_.
+The "also" particle can also be put with the subject, and just not with the verb. But it means a different thing. The emphasis is put on _you_ rather than the _it_.
 
 > _Kabilan: unakkù vêɳum-aa_ ?
 >
@@ -86,16 +86,16 @@ You might have noticed that it is listed as _-ngaɭ_ and not not _-nga_ above. A
 
 The same works for other Tamil verbs as well. Just using the dictionary form will be a command by itself! No extra work needed.
 
-> _pô !_
+> _pô _
  Go!
 >
-> _pônga !_
+> _pônga _
  Please go!
 >
-> _eʐudù !_
+> _eʐudù _
  Write !
 >
-> _eʐudùnga !_
+> _eʐudùnga _
  Please eʐudùnga
 
 Of course, you can ask someone to do something for you.
@@ -111,7 +111,7 @@ Of course, you can ask someone to do something for you.
 - _unnaala_, "By you".
 - _muDiyum_, "is doable/finishable".
 
-Instead of asking someone to do something, in many cases you would want to ask if they _!can!_ do something.
+Instead of asking someone to do something, in many cases you would want to ask if they _can_ do something.
 
 > _unnaala muDiyumaa?_
 >
