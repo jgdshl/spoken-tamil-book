@@ -166,7 +166,7 @@ Some of you might have noticed that the words for both "for me" and "by me", sta
 
 Knowing this isn't really necessary. But this encourages us to use this pattern further for any noun including names, instead of just "you" and "me".
 
-> John-_(U)-kù_ icecream vêɳumaa ?
+> John-_(ù)-kù_ icecream vêɳumaa ?
 >
 > For John, icecream is wanted? (Does John want icecream?)
 >
@@ -180,7 +180,7 @@ _aala_ can also come as _naala_ sometimes. But it means the same.
 >
 > By Claire, car driving is doable. (Claire can drive cars.)
 
-If the "u" in John-_(U)-kù_ confuses you, there is no rule that says it has to be done. It can just be John-_kù_. Spoken Tamil often likes its words to end in vowel and not in a consonant. It is removed if a suffix starting with a vowel is added to it. Does formation of infinitives make more sense now?
+If the "ù" in John-_(ù)-kù_ confuses you, there is no rule that says it has to be done. It can just be John-_kù_. Spoken Tamil often likes its words to end in vowel and not in a consonant. It is removed if a suffix starting with a vowel is added to it. Does formation of infinitives make more sense now?
 
 ## Summary
 
